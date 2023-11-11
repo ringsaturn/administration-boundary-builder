@@ -6,6 +6,11 @@
 > [dataset License](https://github.com/OvertureMaps/schema/blob/v0.5.0/README.md)
 > before using it.
 
+Other references:
+
+- <https://github.com/OvertureMaps/schema>
+- <https://github.com/overtureMaps/data>
+
 ## Download
 
 ```bash
@@ -29,7 +34,7 @@ Install `spatial` extension:
 INSTALL spatial;
 ```
 
-Load extension
+Load extension:
 
 ```sql
 LOAD spatial;
