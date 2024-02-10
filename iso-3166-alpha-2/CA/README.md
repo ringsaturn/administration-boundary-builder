@@ -10,6 +10,6 @@
 wget "https://www12.statcan.gc.ca/census-recensement/2021/geo/sip-pis/boundary-limites/files-fichiers/lpr_000b21a_e.zip"
 ```
 
-### Data License
+### License
 
 TODO
