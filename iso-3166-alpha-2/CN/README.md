@@ -40,3 +40,11 @@ https://geo.datav.aliyun.com/areas_v3/bound/100000.json
 https://geo.datav.aliyun.com/areas_v3/bound/100000_full.json
 https://geo.datav.aliyun.com/areas_v3/bound/100000_full_city.json
 ```
+
+## Source - `GaryBikini/ChinaAdminDivisonSHP`
+
+<https://github.com/GaryBikini/ChinaAdminDivisonSHP>
+
+### License
+
+<https://github.com/GaryBikini/ChinaAdminDivisonSHP/blob/master/LICENSE>
